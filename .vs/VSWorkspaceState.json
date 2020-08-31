@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\java-tomcat-sample",
+    "\\java-tomcat-sample\\src",
+    "\\java-tomcat-sample\\src\\main",
+    "\\java-tomcat-sample\\src\\main\\webapp",
+    "\\maven-samples\\single-module",
+    "\\maven-samples\\single-module\\src\\main\\java",
+    "\\maven-samples\\single-module\\src\\main\\java\\com",
+    "\\maven-samples\\single-module\\src\\main\\java\\com\\example",
+    "\\maven-samples\\single-module\\src\\test"
+  ],
+  "SelectedNode": "\\java-tomcat-sample\\src\\main\\webapp\\index.jsp",
+  "PreviewInSolutionExplorer": false
+}
