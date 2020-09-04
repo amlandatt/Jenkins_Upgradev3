@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\java-tomcat-sample",
     "\\java-tomcat-sample\\src",
     "\\java-tomcat-sample\\src\\main",
     "\\java-tomcat-sample\\src\\main\\webapp"
   ],
-  "SelectedNode": "\\java-tomcat-sample\\src\\main\\webapp\\index.jsp",
+  "SelectedNode": "\\java-tomcat-sample-docker",
   "PreviewInSolutionExplorer": false
 }
